@@ -37,7 +37,7 @@ task_manager/
 4. Run the application:  
    python app.py  
 5. Open in browser:  
-   http://127.0.0.1:5000/
+   http://127.0.0.1:5000
 
 ## 🧠 How It Works
 Tasks are stored in a SQLite database. Flask handles routing and backend logic. SQLAlchemy manages database operations. Jinja templates render dynamic data in HTML.
