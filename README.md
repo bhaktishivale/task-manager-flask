@@ -29,7 +29,7 @@ task_manager/
 
 ## ⚙️ Installation & Setup
 1. Clone the repository:  
-   git clone https://github.com/yourusername/task-manager-flask.git  
+   git clone https://github.com/bhaktishivale/task-manager-flask.git  
 2. Navigate to the project folder:  
    cd task-manager-flask  
 3. Install dependencies:  
